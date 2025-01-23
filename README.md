@@ -8,3 +8,5 @@ YE SURYA LOAN K LIYE HAI
 <br>
   . yha local se code likha tha or git me add kiya hai (git add .)  ki comand chlai thi isse add hogyi ti sari file 
 
+<br>
+ . git push chlane k liye (git push -u origin main)
